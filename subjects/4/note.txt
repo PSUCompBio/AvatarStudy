@@ -1,0 +1,1 @@
+Due to extreme and obvious differences in mesh scale, the subject 4 scanned mesh had a uniform scale of 0.916 applied to it
