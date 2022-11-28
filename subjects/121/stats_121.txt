@@ -1,0 +1,21 @@
+========================================
+Missing vertices: 348
+========================================
+Height Difference (HD) statistics:
+Min: 0.0040mm
+Max: 186.9497mm
+Mean: 9.3194mm
+SDev: 16.0034mm
+========================================
+Orientation Difference (OD) statistics:
+Min: 0.1702 degrees
+Max: 161.6560 degrees
+Mean: 8.6829 degrees
+SDev: 11.2230 degrees
+========================================
+Sampled Hausdorff Distance (SHD) statistics:
+Min: 0.0026mm
+Max: 22.0030mm
+Mean: 5.0403mm
+SDev: 3.8052mm
+========================================
